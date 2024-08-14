@@ -1,0 +1,15 @@
+Task Management System API Documentation :
+
+Swagger UI
+
+The API documentation is available through Swagger UI :-
+http://localhost:8080/swagger-ui/index.html
+
+OpenAPI JSON
+
+The OpenAPI JSON file provides a detailed description of the API structure and endpoints :-
+http://localhost:8080/v3/api-docs
+
+Swagger UI Screenshot
+
+swagger-ui-screenshot.png
