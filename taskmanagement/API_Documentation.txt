@@ -3,7 +3,7 @@ Task Management System API Documentation :
 Swagger UI
 
 The API documentation is available through Swagger UI :-
-http://localhost:8080/swagger-ui/index.html
+
 
 OpenAPI JSON
 
